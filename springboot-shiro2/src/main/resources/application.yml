@@ -1,0 +1,10 @@
+server:
+  port: 8083
+beetl:
+  templatesPath: templates
+
+
+spring:
+  aop:
+    auto: true
+    proxy-target-class: true
